@@ -43,4 +43,4 @@ Portafolio personal que reúne proyectos y demostraciones prácticas desarrollad
 
 ## Créditos
 
-- Proyecto desarrollado durante el Bootcamp JavaScript de MindHub (2025).
+- Proyecto desarrollado durante el Bootcamp JavaScript de MindHub (Talento Digital 2025).
